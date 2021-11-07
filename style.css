@@ -45,9 +45,6 @@
     color: #fff
   }
 
-
-
-
   .section_our_solution .row {
     align-items: center;
   }
@@ -229,3 +226,11 @@
     left: 10%;
     color: #fff
   }
+
+  .impressum {
+    color: #6c757d;
+  }
+
+.contact {
+  color:black;
+}
